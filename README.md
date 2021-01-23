@@ -5,8 +5,8 @@ play anthem using winsound
 Run flag.py file
 
 # Modules used:
-turtule
-winsound
+1. turtule
+2. winsound
 
 
 
